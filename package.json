@@ -51,7 +51,7 @@
     "electron-updater": "4.6.5",
     "python-shell": "3.0.1",
     "tree-kill": "1.2.2",
-    "vue": "3.4.21",
+    "vue": "3.4.22",
     "vue-router": "4.3.0",
     "yaml": "1.10.2"
   }
